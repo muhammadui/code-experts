@@ -1,11 +1,11 @@
 window.FontAwesomeKitConfig = {
     "asyncLoading": {
-        "enabled": false
+        "enabled": true
     },
     "autoA11y": {
         "enabled": true
     },
-    "baseUrl": "https://ka-f.fontawesome.com",
+    "baseUrl": "https://kit-pro.fontawesome.com",
     "detectConflictsUntil": null,
     "iconUploads": {},
     "license": "pro",
